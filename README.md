@@ -20,7 +20,11 @@ A computational model for investigating presynaptic short-term plasticity is imp
 - to be added upon publication 
 
 ## Functions  
-- - to be added upon publication 
+- to be added upon publication
+- [Signal_Processing.py]: smooth and detrend patch-clamp recordings in visual cortex
+- [TM_Model.py]: [Tsodyks-Markram model](https://doi.org/10.1162/089976698300017502) with fitted utilization of synaptic efficacy and recovery time constant
+- [SMN_Method.py]: [Schneggenburger-Meyer Neher method](https://doi.org/10.1016/S0896-6273(00)80789-8) for estimating readily releasable pool size and replenishment rate
+
 
 ## Citation
 - to be added upon publication 
